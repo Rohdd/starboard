@@ -1,11 +1,11 @@
 {
-  "token": "bot_token",
-  "serverID": "693277318496920420",
-  "channelID": "461248569698208129",
-  "reactionEmoji": "⭐",
-  "embedEmoji": "⭐",
-  "threshold": 15,
+  "token": "NjYyMzk0NzY1Mjk5NDE3MTM5.Xg5zlA.vLetVgQIRcZIMoz2WNmT8mJNHt0",
+  "serverID": "487060767342854145",
+  "channelID": "662813982293360669",
+  "reactionEmoji": "hasSmug",
+  "embedEmoji": "hasSmug",
+  "threshold": 12,
   "hexcolor": "00AE86",
-  "dateCutoff": 3,
-  "fetchLimit": 100
+  "dateCutoff": 4,
+  "fetchLimit": 200
 }
